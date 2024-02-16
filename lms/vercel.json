@@ -8,7 +8,7 @@
       { "handle": "filesystem" },
       {
         "src": "/(.*)",
-        "dest": "/index.php"
+        "dest": "/welcome.blade.php"
       }
     ]
   }
